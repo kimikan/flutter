@@ -1,7 +1,7 @@
 # chart
 
-Snapshot.
-(https://github.com/kimikan/flutter/blob/main/chart/chart.jpg)
+Snapshot</br>
+![image](https://github.com/kimikan/flutter/blob/master/chart/chart.jpg)
 
 ## Getting Started
 
