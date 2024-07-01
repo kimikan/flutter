@@ -1,6 +1,7 @@
 # chart
 
-A new Flutter project.
+Snapshot.
+(https://github.com/kimikan/flutter/blob/main/chart/chart.jpg)
 
 ## Getting Started
 
